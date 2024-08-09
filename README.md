@@ -1,5 +1,6 @@
-# sql_projects
-Mini easy SQL projects 
+Data analytics Projects
+
+SQL & Tableau
 
 Dataset : Supermarket Sales
 https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
