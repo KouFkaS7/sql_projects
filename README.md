@@ -18,3 +18,5 @@ Analyzing payment methods can reveal consumer behavior preferences and trends.
 5.	What dates and times have the highest frequency of purchases?
 Analyzing peak hours and dates can assist in staffing planning and inventory management.
 
+
+![Dashboard 1](https://github.com/user-attachments/assets/98acd181-336f-4e9f-a05e-7a18780bac53)
